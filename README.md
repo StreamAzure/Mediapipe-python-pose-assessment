@@ -2,7 +2,7 @@
 
 ## 要求
 
-- 推荐环境（仅在此环境中测试过）：Python 3.7.6 64-bit
+- 推荐环境（仅在此环境中测试过）：**Python 3.7.6 64-bit**
 - mediapipe 0.8.3 或更高版本： `pip install mediapipe`
 - OpenCV 3.4.2 或更高版本： `pip install opencv-python`
 - dtaidistance：`pip install dtaidistance`
